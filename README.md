@@ -1,7 +1,7 @@
 # Replication Data & Code for 'Accounting for Geographic Basis Risk in Heat Index Insurance: How Spatial Interpolation Can Reduce the Cost of Risk'
 This repository contains R code and data used in Leppert, Dalhaus, and Lagerkvist (2021). Forthcoming. Researchers who wish to replicate our results are invited to consult the README-file. We encourage use of our code by others: Cite to this article. 
 
-We use weather station observations from NOAA global historical climate network dataset from Illinois and Iowa, 1980 - 2019, available here: https://www.ncdc.noaa.gov/ghcn-daily-description. To acknowledge the specific version of the dataset used, please cite: 
+We use weather station observations from NOAA global historical climate network dataset from Illinois and Iowa, 1980 - 2019, available here: https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt. To acknowledge the specific version of the dataset used, please cite: 
 
 Menne, M.J., I. Durre, B. Korzeniewski, S. McNeal, K. Thomas, X. Yin, S. Anthony, R. Ray, R.S. Vose, B.E.Gleason, and T.G. Houston, 2012: Global Historical Climatology Network - Daily (GHCN-Daily), Version 3. [indicate subset used following decimal, e.g. Version 3.12]. NOAA National Climatic Data Center. http://doi.org/10.7289/V5D21VHZ [access date]. 
 
