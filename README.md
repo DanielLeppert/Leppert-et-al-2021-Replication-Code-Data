@@ -1,5 +1,5 @@
 # Replication Data & Code for 'Accounting for Geographic Basis Risk in Heat Index Insurance: How Spatial Interpolation Can Reduce the Cost of Risk'
-This repository contains R code and data used in Leppert, Dalhaus, and Lagerkvist (2021). Forthcoming. Researchers who wish to replicate our results are invited to consult the README-file. We encourage use of our code by others: Cite to this article. 
+This repository contains R code and data used in our forthcoming paper. Researchers who wish to replicate our results are invited to consult the README-file. We encourage use of our code by others, cite: Leppert D., Dalhaus, T. and Lagerkvist, C. (2021) "Accounting for Geographic Basis Risk in Heat Index Insurance: How Spatial Interpolation Can Reduce the Cost of Risk". 
 
 We use weather station observations from NOAA global historical climate network dataset from Illinois and Iowa, 1980 - 2019, available here: https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt. To acknowledge the specific version of the dataset used, please cite: 
 
