@@ -9,7 +9,7 @@ Compute cumulative monthly values of variable 'TMAX' for each station and conver
 
 We use county-level survey corn yield data from the U.S. Department of Agriculture NASS QuickStats database available here: https://quickstats.nass.usda.gov/. Alternatively, we provide the complete data file.
 
-To reconstruct our interpolated (IDW, OK, RK) and nearest-neighbor (NN) indices, follow the steps below: Download GHCN-Daily data into working directory, and co17_d00.shp from this repository into your RStudio workspace. Alternatively we also provide a file with pre-processed station data: stations_data.RData.
+To reconstruct our interpolated (Inverse-Distance Weighting, Ordinary Kriging, Regression Kriging) and nearest-neighbor indices, follow the steps below: Download GHCN-Daily data into working directory, and co17_d00.shp from this repository into your RStudio workspace. Alternatively we also provide a file with pre-processed station data: stations_data.RData.
    1. Run indices_code.R as instructed which produces the four CDD indices data files.
    2. Run contract_code to calculate results presented in the paper. 
    3. Load results and run EU_RP_diffs.R to calculate relative changes in risk premiums between insurance contracts
